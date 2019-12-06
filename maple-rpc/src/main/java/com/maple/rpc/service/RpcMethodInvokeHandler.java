@@ -26,6 +26,7 @@ public class RpcMethodInvokeHandler extends AbstractInvocationHandler {
 
 	@Override
 	protected Object handleInvocation(Object proxy, Method method, Object[] args) throws Throwable {
+		RpcCallResponseFuture rpcResponseFuture = null;
 		return null;
 	}
 }

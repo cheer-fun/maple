@@ -11,4 +11,8 @@ public class CrossMsgIDs {
 	 */
 	public static final short ReqAllGuildMatchInfo = 0;
 
+	public static final short RpcMethodInvokeMsg = 1;
+
+	public static final short RpcResponse = 1;
+
 }

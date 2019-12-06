@@ -6,6 +6,11 @@ package com.maple.rpc.constant;
  **/
 public class RpcConstant {
 
-
 	public static final int DEFAULT_TIME_OUT = 1;
+
+	public static final int CROSS_MSG_TYPE_PING = 0;
+
+	public static final int CROSS_MSG_TYPE_PONG = 1;
+
+	public static final int CROSS_MSG_TYPE_MSG = 2;
 }

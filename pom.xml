@@ -12,6 +12,7 @@
         <module>maple-rpc</module>
         <module>maple-socket</module>
         <module>maple-event</module>
+        <module>maple-common</module>
     </modules>
     <packaging>pom</packaging>
     <name>枫叶</name>
